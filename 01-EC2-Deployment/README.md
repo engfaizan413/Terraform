@@ -75,15 +75,15 @@ echo "<h1>Hello from Amazon Linux 2023</h1>" > /var/www/html/index.html
 
 ### 1. Terraform Deployment
 
-![Terraform Deployment](images/Terraform_Apply_1.png)
+![Terraform Deployment](Images/Terraform_Apply_1.png)
 
 ### 2. EC2 Instance
 
-![EC2 Instance](images/Instance.png)
+![EC2 Instance](Images/Instance.png)
 
 ### 3. Apache Web Server Output
 
-![Apache Output](images/Apache_Output.png)
+![Apache Output](Images/Apache_Output.png)
 
 ## Deployment Instructions
 
