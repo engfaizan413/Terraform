@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfplan
+
+# Sensitive files
+.env
+*.pem
+
+# IDE
+.vscode/
