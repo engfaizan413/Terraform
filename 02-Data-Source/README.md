@@ -138,7 +138,7 @@ Removes the infrastructure provisioned by Terraform.
 
 ### 3. EC2 Instance Output
 
-![EC2 Instance](images/Ec2_Instance.png)
+![EC2 Instance](images/EC2_Instance.png)
 
 ### 4. Security Group Configuration
 
@@ -146,7 +146,7 @@ Removes the infrastructure provisioned by Terraform.
 
 ### 5. Apache Output
 
-![Apache Output](images/Appache_output.png)
+![Apache Output](images/Appache_output-page.png)
 
 ## Key Learnings
 
